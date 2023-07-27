@@ -396,7 +396,7 @@
   "lives": [{
 	"name": "live",
 	"type": 0,
-	"url": "https://ghproxy.com/https://raw.githubusercontent.com/tianya7981/tvbox-/main/zbyfx20230723.txt",
+	"url": "https://raw.githubusercontent.com/tianya7981/tvbox-/main/zbyfx20230723.txt",
 	"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
 	"logo": "https://epg.112114.xyz/logo/{name}.png",
 	"ua": "okhttp/3.12.13"
