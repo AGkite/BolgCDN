@@ -1,20 +1,44 @@
 #EXTM3U
-#EXTINF:-1 group-title="默认分组",凤凰中文
-http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-#EXTINF:-1 group-title="默认分组",凤凰资讯
-http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰中文1
+https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?
+#EXTINF:-1 group-title="默认分组",凤凰中文2
+http://php.17186.eu.org/phtv/fhzw.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰资讯1
+https://youtu.be/if6yQq_JJyY
+#EXTINF:-1 group-title="默认分组",凤凰资讯2
+http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 group-title="默认分组",CCTV9
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="默认分组",TVBS新聞
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="默认分组",TVBS NEWS
+https://youtu.be/m_dhMSvUCIc
+#EXTINF:-1 group-title="默认分组",TVBS新聞
+https://youtu.be/2mCSYvcfhtc
+#EXTINF:-1 group-title="默认分组",東森新聞
+https://youtu.be/S5WOGu2HSes
+#EXTINF:-1 group-title="默认分组",中視新聞
+https://youtu.be/TCnaIE_SAtM
 #EXTINF:-1 group-title="默认分组",台視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="默认分组",台視新聞 HD
+https://youtu.be/xL0ch83RAK8
 #EXTINF:-1 group-title="默认分组",民視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="默认分组",民視新聞
+https://youtu.be/ylYJSBUgaMA
+#EXTINF:-1 group-title="默认分组",三立新闻
+https://youtu.be/eg3AtXVByOM
+#EXTINF:-1 group-title="默认分组",寰宇新闻
+https://youtu.be/B7Zp3d6xXWw
+#EXTINF:-1 group-title="默认分组",鏡新聞
+https://youtu.be/5n0y6b0Q25o
 #EXTINF:-1 group-title="默认分组",凤凰香港
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+http://php.17186.eu.org/phtv/fhxg.m3u8
 #EXTINF:-1 group-title="默认分组",翡翠台
-http://r.jdshipin.com/62WM7
+http://27.36.62.162:9090/live/1350_1500.m3u8
+#EXTINF:-1 group-title="默认分组",广东公共
+https://tingfm.com/wp-json/endpoint/stream/wndt_gdrt?id=48
 #EXTINF:-1 group-title="默认分组",广东卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 #EXTINF:-1 group-title="默认分组",南方卫视
@@ -33,12 +57,20 @@ https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="默认分组",无线财经資訊台
 http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
+#EXTINF:-1 group-title="默认分组",CNA
+https://youtu.be/XWq5kBlakcQ
 #EXTINF:-1 group-title="默认分组",VOA
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 group-title="默认分组",ABC NEWS
+https://youtu.be/w_Ma8oQLmSM
 #EXTINF:-1 group-title="默认分组",BBC America
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 group-title="默认分组",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="默认分组",NASA
+https://youtu.be/KG6SL6Mf7ak
+#EXTINF:-1 group-title="默认分组",Relaxing
+https://youtu.be/dXIyMS61B68
 #EXTINF:-1 group-title="默认分组",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="默认分组",NHK 華語
@@ -49,6 +81,8 @@ https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
 #EXTINF:-1 group-title="默认分组",越南-CTV(5G专线)
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="默认分组",FRANCE 24
+https://youtu.be/gxG3pdKvlIs
 #EXTINF:-1 group-title="中国频道",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="中国频道",CCTV1
