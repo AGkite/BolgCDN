@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="列表",凤凰资讯
-http://211.72.65.236:8576/.m3u8
 #EXTINF:-1 group-title="列表",凤凰中文
 http://211.72.65.236:8577/.m3u8
-#EXTINF:-1 group-title="列表",TAIWAN+
-http://211.72.65.236:8538/.m3u8
 #EXTINF:-1 group-title="列表",TVBS新闻台
 http://211.72.65.236:8574/.m3u8
-#EXTINF:-1 group-title="列表",年代新闻
-http://211.72.65.236:8539/.m3u8
 #EXTINF:-1 group-title="列表",东森新闻
 http://211.72.65.236:8540/.m3u8
 #EXTINF:-1 group-title="列表",中天新闻
@@ -17,66 +11,16 @@ http://211.72.65.236:8541/.m3u8
 http://211.72.65.236:8542/.m3u8
 #EXTINF:-1 group-title="列表",三立新闻
 http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 group-title="列表",非凡商业
-http://211.72.65.236:8545/.m3u8
 #EXTINF:-1 group-title="列表",东森财经新闻
 http://211.72.65.236:8546/.m3u8
-#EXTINF:-1 group-title="列表",寰宇新闻台
-http://211.72.65.236:8547/.m3u8
 #EXTINF:-1 group-title="列表",壹新闻
 http://211.72.65.236:8548/.m3u8
-#EXTINF:-1 group-title="列表",龙华戏剧
-http://211.72.65.236:8549/.m3u8
-#EXTINF:-1 group-title="列表",龙华日韩
-http://211.72.65.236:8550/.m3u8
-#EXTINF:-1 group-title="列表",龙华偶像
-http://211.72.65.236:8555/.m3u8
-#EXTINF:-1 group-title="列表",龙华电影
-http://211.72.65.236:8556/.m3u8
-#EXTINF:-1 group-title="列表",ELEVEN1
-http://211.72.65.236:8566/.m3u8
-#EXTINF:-1 group-title="列表",ELEVEN2
-http://211.72.65.236:8567/.m3u8
 #EXTINF:-1 group-title="列表",中视
 http://211.72.65.236:8502/.m3u8
 #EXTINF:-1 group-title="列表",华视
 http://211.72.65.236:8503/.m3u8
-#EXTINF:-1 group-title="列表",民视
-http://211.72.65.236:8504/.m3u8
-#EXTINF:-1 group-title="列表",公视
-http://211.72.65.236:8505/.m3u8
-#EXTINF:-1 group-title="列表",人间卫视
-http://211.72.65.236:8506/.m3u8
-#EXTINF:-1 group-title="列表",大爱
-http://211.72.65.236:8507/.m3u8
-#EXTINF:-1 group-title="列表",好消息
-http://211.72.65.236:8508/.m3u8
-#EXTINF:-1 group-title="列表",国家地理
-http://211.72.65.236:8509/.m3u8
 #EXTINF:-1 group-title="列表",探索频道
 http://211.72.65.236:8510/.m3u8
-#EXTINF:-1 group-title="列表",TLC
-http://211.72.65.236:8511/.m3u8
-#EXTINF:-1 group-title="列表",动物星球
-http://211.72.65.236:8512/.m3u8
-#EXTINF:-1 group-title="列表",亚洲旅游台
-http://211.72.65.236:8513/.m3u8
-#EXTINF:-1 group-title="列表",东森幼幼
-http://211.72.65.236:8515/.m3u8
-#EXTINF:-1 group-title="列表",龙华卡通
-http://211.72.65.236:8516/.m3u8
-#EXTINF:-1 group-title="列表",纬来综合
-http://211.72.65.236:8518/.m3u8
-#EXTINF:-1 group-title="列表",纬来戏剧
-http://211.72.65.236:8533/.m3u8
-#EXTINF:-1 group-title="列表",纬来日本
-http://211.72.65.236:8537/.m3u8
-#EXTINF:-1 group-title="列表",八大第一台
-http://211.72.65.236:8519/.m3u8
-#EXTINF:-1 group-title="列表",八大综合台
-http://211.72.65.236:8520/.m3u8
-#EXTINF:-1 group-title="列表",八大戏剧台
-http://211.72.65.236:8531/.m3u8
 #EXTINF:-1 group-title="列表",三立台湾台
 http://211.72.65.236:8521/.m3u8
 #EXTINF:-1 group-title="列表",三立都会台
@@ -95,17 +39,11 @@ http://162.19.247.76:22222/live/dsypt/index.m3u8
 http://211.72.65.236:8526/.m3u8
 #EXTINF:-1 group-title="列表",中天娱乐
 http://211.72.65.236:8527/.m3u8
-#EXTINF:-1 group-title="列表",东风37
-http://211.72.65.236:8528/.m3u8
 #EXTINF:-1 group-title="列表",年代MUCH
 http://211.72.65.236:8529/.m3u8
 #EXTINF:-1 group-title="列表",TVBS欢乐台
 http://211.72.65.236:8532/.m3u8
 #EXTINF:-1 group-title="列表",TVBS HD
 http://211.72.65.236:8575/.m3u8
-#EXTINF:-1 group-title="列表",卫视电影台
-http://211.72.65.236:8578/.m3u8
-#EXTINF:-1 group-title="列表",纬来电影
-http://211.72.65.236:8579/.m3u8
 #EXTINF:-1 group-title="列表",四川卫视
 https://mmslive.sctv-tf.com/scgc/sctv2023l/index.m3u8

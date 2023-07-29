@@ -3,6 +3,8 @@
 https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?
 #EXTINF:-1 group-title="默认分组",凤凰中文2
 http://php.17186.eu.org/phtv/fhzw.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰中文3
+http://211.72.65.236:8577/.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯1
 https://youtu.be/if6yQq_JJyY
 #EXTINF:-1 group-title="默认分组",凤凰资讯2
@@ -49,12 +51,8 @@ http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="默认分组",湖南卫视
 http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="默认分组",海南卫视
-http://hls.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
 #EXTINF:-1 group-title="默认分组",RTHK32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 group-title="默认分组",香港面包台
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="默认分组",无线财经資訊台
 http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 #EXTINF:-1 group-title="默认分组",CNA
@@ -67,22 +65,8 @@ https://youtu.be/w_Ma8oQLmSM
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 group-title="默认分组",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="默认分组",NASA
-https://youtu.be/KG6SL6Mf7ak
-#EXTINF:-1 group-title="默认分组",Relaxing
-https://youtu.be/dXIyMS61B68
-#EXTINF:-1 group-title="默认分组",新加坡
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="默认分组",NHK 華語
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="默认分组",SBS 런닝맨
-https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?
-#EXTINF:-1 group-title="默认分组",韓國新聞
-http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
-#EXTINF:-1 group-title="默认分组",越南-CTV(5G专线)
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="默认分组",FRANCE 24
-https://youtu.be/gxG3pdKvlIs
+
+
 #EXTINF:-1 group-title="中国频道",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="中国频道",CCTV1
