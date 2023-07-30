@@ -65,8 +65,54 @@ https://youtu.be/w_Ma8oQLmSM
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 group-title="默认分组",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-
-
+#EXTINF:-1 group-title="列表",凤凰中文
+http://211.72.65.236:8577/.m3u8
+#EXTINF:-1 group-title="列表",TVBS新闻台
+http://211.72.65.236:8574/.m3u8
+#EXTINF:-1 group-title="列表",东森新闻
+http://211.72.65.236:8540/.m3u8
+#EXTINF:-1 group-title="列表",中天新闻
+http://211.72.65.236:8541/.m3u8
+#EXTINF:-1 group-title="列表",民视新闻台
+http://211.72.65.236:8542/.m3u8
+#EXTINF:-1 group-title="列表",三立新闻
+http://211.72.65.236:8543/.m3u8
+#EXTINF:-1 group-title="列表",东森财经新闻
+http://211.72.65.236:8546/.m3u8
+#EXTINF:-1 group-title="列表",壹新闻
+http://211.72.65.236:8548/.m3u8
+#EXTINF:-1 group-title="列表",中视
+http://211.72.65.236:8502/.m3u8
+#EXTINF:-1 group-title="列表",华视
+http://211.72.65.236:8503/.m3u8
+#EXTINF:-1 group-title="列表",探索频道
+http://211.72.65.236:8510/.m3u8
+#EXTINF:-1 group-title="列表",三立台湾台
+http://211.72.65.236:8521/.m3u8
+#EXTINF:-1 group-title="列表",三立都会台
+http://211.72.65.236:8522/.m3u8
+#EXTINF:-1 group-title="列表",卫视中文台
+http://211.72.65.236:8523/.m3u8
+#EXTINF:-1 group-title="列表",东森综合
+http://211.72.65.236:8524/.m3u8
+#EXTINF:-1 group-title="列表",东森戏剧
+http://211.72.65.236:8530/.m3u8
+#EXTINF:-1 group-title="列表",东森超视
+http://211.72.65.236:8525/.m3u8
+#EXTINF:-1 group-title="列表",东森洋片台
+http://162.19.247.76:22222/live/dsypt/index.m3u8
+#EXTINF:-1 group-title="列表",中天综合
+http://211.72.65.236:8526/.m3u8
+#EXTINF:-1 group-title="列表",中天娱乐
+http://211.72.65.236:8527/.m3u8
+#EXTINF:-1 group-title="列表",年代MUCH
+http://211.72.65.236:8529/.m3u8
+#EXTINF:-1 group-title="列表",TVBS欢乐台
+http://211.72.65.236:8532/.m3u8
+#EXTINF:-1 group-title="列表",TVBS HD
+http://211.72.65.236:8575/.m3u8
+#EXTINF:-1 group-title="列表",四川卫视
+https://mmslive.sctv-tf.com/scgc/sctv2023l/index.m3u8
 #EXTINF:-1 group-title="中国频道",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="中国频道",CCTV1
