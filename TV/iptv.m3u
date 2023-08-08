@@ -49,6 +49,8 @@ http://sc2022.stream-link.org/tv2306.php?id=h08
 http://sc2022.stream-link.org/tv2306.php?id=h04
 #EXTINF:-1 group-title="默认分组",无线新闻2
 http://107.167.12.58:27347/livehttpplay?channel_id=30024
+#EXTINF:-1 group-title="默认分组",TVB J1
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
 #EXTINF:-1 group-title="默认分组",TVB J2
 http://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 group-title="默认分组",TVB 星河
