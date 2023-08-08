@@ -6,7 +6,7 @@ http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰中文3
 http://113.117.74.47:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯1
-https://youtu.be/if6yQq_JJyY
+http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="默认分组",凤凰资讯2
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰香港1
@@ -22,23 +22,37 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="默认分组",東森新聞
 http://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1 group-title="默认分组",中視新聞
-https://youtu.be/TCnaIE_SAtM
+http://sc2022.stream-link.org/tv2306.php?id=t05
 #EXTINF:-1 group-title="默认分组",台視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",台視新聞 HD
-https://youtu.be/xL0ch83RAK8
+http://sc2022.stream-link.org/tv2306.php?id=t12
 #EXTINF:-1 group-title="默认分组",民視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",民視新聞
-https://youtu.be/ylYJSBUgaMA
+http://sc2022.stream-link.org/tv2306.php?id=t06
 #EXTINF:-1 group-title="默认分组",三立新闻
-https://youtu.be/eg3AtXVByOM
+http://sc2022.stream-link.org/tv2306.php?id=t10
+#EXTINF:-1 group-title="默认分组",三立新闻+
+http://sc2022.stream-link.org/tv2306.php?id=t11
 #EXTINF:-1 group-title="默认分组",寰宇新闻
-https://youtu.be/B7Zp3d6xXWw
+http://sc2022.stream-link.org/tv2306.php?id=t07
 #EXTINF:-1 group-title="默认分组",鏡新聞
 https://youtu.be/5n0y6b0Q25o
-#EXTINF:-1 group-title="默认分组",翡翠台
-http://27.36.62.162:9090/live/1350_1500.m3u8
+#EXTINF:-1 group-title="默认分组",翡翠台1
+http://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 group-title="默认分组",翡翠台2
+http://107.167.12.58:27347/livehttpplay?channel_id=20127
+#EXTINF:-1 group-title="默认分组",有线新闻
+http://sc2022.stream-link.org/tv2306.php?id=h08
+#EXTINF:-1 group-title="默认分组",无线新闻1
+http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 group-title="默认分组",无线新闻2
+http://107.167.12.58:27347/livehttpplay?channel_id=30024
+#EXTINF:-1 group-title="默认分组",TVB J2
+http://sc2022.stream-link.org/tv2306.php?id=h03
+#EXTINF:-1 group-title="默认分组",TVB 星河
+http://sc2022.stream-link.org/tv2306.php?id=c02
 #EXTINF:-1 group-title="默认分组",广东公共
 https://tingfm.com/wp-json/endpoint/stream/wndt_gdrt?id=48
 #EXTINF:-1 group-title="默认分组",广东卫视
@@ -65,54 +79,82 @@ https://youtu.be/w_Ma8oQLmSM
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 group-title="默认分组",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="列表",凤凰中文
-http://211.72.65.236:8577/.m3u8
-#EXTINF:-1 group-title="列表",TVBS新闻台
-http://211.72.65.236:8574/.m3u8
-#EXTINF:-1 group-title="列表",东森新闻
-http://211.72.65.236:8540/.m3u8
+#EXTINF:-1 group-title="列表",翡翠台
+http://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 group-title="列表",翡翠台
+http://sc2022.stream-link.org/tv2306.php?id=h02
+#EXTINF:-1 group-title="列表",TVB J2
+http://sc2022.stream-link.org/tv2306.php?id=h03
+#EXTINF:-1 group-title="列表",TVB 星河
+http://sc2022.stream-link.org/tv2306.php?id=c02
+#EXTINF:-1 group-title="列表",华语剧台
+http://sc2022.stream-link.org/tv2306.php?id=c01
+#EXTINF:-1 group-title="列表",无线新闻
+http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 group-title="列表",无线财经
+http://sc2022.stream-link.org/tv2306.php?id=h05
+#EXTINF:-1 group-title="列表",有线新闻
+http://sc2022.stream-link.org/tv2306.php?id=h08
+#EXTINF:-1 group-title="列表",有线财经
+http://sc2022.stream-link.org/tv2306.php?id=h09
+#EXTINF:-1 group-title="列表",HoyTV
+http://sc2022.stream-link.org/tv2306.php?id=h10
+#EXTINF:-1 group-title="列表",Hoy资讯
+http://sc2022.stream-link.org/tv2306.php?id=h11
+#EXTINF:-1 group-title="列表",RTHK31
+http://sc2022.stream-link.org/tv2306.php?id=h06
+#EXTINF:-1 group-title="列表",RTHK32
+http://sc2022.stream-link.org/tv2306.php?id=h07
+#EXTINF:-1 group-title="列表",天映频道
+http://sc2022.stream-link.org/tv2306.php?id=c03
+#EXTINF:-1 group-title="列表",民视第一
+http://sc2022.stream-link.org/tv2306.php?id=t18
+#EXTINF:-1 group-title="列表",民视台湾
+http://sc2022.stream-link.org/tv2306.php?id=t19
+#EXTINF:-1 group-title="列表",民视综艺
+http://sc2022.stream-link.org/tv2306.php?id=t20
+#EXTINF:-1 group-title="列表",民视影剧
+http://sc2022.stream-link.org/tv2306.php?id=t21
+#EXTINF:-1 group-title="列表",民视旅游
+http://sc2022.stream-link.org/tv2306.php?id=t22
+#EXTINF:-1 group-title="列表",台视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t12
+#EXTINF:-1 group-title="列表",中视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1 group-title="列表",民视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t06
+#EXTINF:-1 group-title="列表",华视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t04
+#EXTINF:-1 group-title="列表",TVBS
+http://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1 group-title="列表",TVBS新闻
+http://sc2022.stream-link.org/tv2306.php?id=t13
 #EXTINF:-1 group-title="列表",中天新闻
-http://211.72.65.236:8541/.m3u8
-#EXTINF:-1 group-title="列表",民视新闻台
-http://211.72.65.236:8542/.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=t03
+#EXTINF:-1 group-title="列表",东森新闻
+http://sc2022.stream-link.org/tv2306.php?id=t01
+#EXTINF:-1 group-title="列表",东森财经
+http://sc2022.stream-link.org/tv2306.php?id=t02
+#EXTINF:-1 group-title="列表",东森幼幼
+http://sc2022.stream-link.org/tv2306.php?id=t26
+#EXTINF:-1 group-title="列表",寰宇新闻
+http://sc2022.stream-link.org/tv2306.php?id=t07
+#EXTINF:-1 group-title="列表",寰宇新闻台湾
+http://sc2022.stream-link.org/tv2306.php?id=t08
 #EXTINF:-1 group-title="列表",三立新闻
-http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 group-title="列表",东森财经新闻
-http://211.72.65.236:8546/.m3u8
-#EXTINF:-1 group-title="列表",壹新闻
-http://211.72.65.236:8548/.m3u8
-#EXTINF:-1 group-title="列表",中视
-http://211.72.65.236:8502/.m3u8
-#EXTINF:-1 group-title="列表",华视
-http://211.72.65.236:8503/.m3u8
-#EXTINF:-1 group-title="列表",探索频道
-http://211.72.65.236:8510/.m3u8
-#EXTINF:-1 group-title="列表",三立台湾台
-http://211.72.65.236:8521/.m3u8
-#EXTINF:-1 group-title="列表",三立都会台
-http://211.72.65.236:8522/.m3u8
-#EXTINF:-1 group-title="列表",卫视中文台
-http://211.72.65.236:8523/.m3u8
-#EXTINF:-1 group-title="列表",东森综合
-http://211.72.65.236:8524/.m3u8
-#EXTINF:-1 group-title="列表",东森戏剧
-http://211.72.65.236:8530/.m3u8
-#EXTINF:-1 group-title="列表",东森超视
-http://211.72.65.236:8525/.m3u8
-#EXTINF:-1 group-title="列表",东森洋片台
-http://162.19.247.76:22222/live/dsypt/index.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=t10
+#EXTINF:-1 group-title="列表",三立新闻+
+http://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1 group-title="列表",三立财经
+http://sc2022.stream-link.org/tv2306.php?id=t09
+#EXTINF:-1 group-title="列表",三立台湾
+http://sc2022.stream-link.org/tv2306.php?id=t23
+#EXTINF:-1 group-title="列表",三立都会
+http://sc2022.stream-link.org/tv2306.php?id=t24
 #EXTINF:-1 group-title="列表",中天综合
-http://211.72.65.236:8526/.m3u8
-#EXTINF:-1 group-title="列表",中天娱乐
-http://211.72.65.236:8527/.m3u8
-#EXTINF:-1 group-title="列表",年代MUCH
-http://211.72.65.236:8529/.m3u8
-#EXTINF:-1 group-title="列表",TVBS欢乐台
-http://211.72.65.236:8532/.m3u8
-#EXTINF:-1 group-title="列表",TVBS HD
-http://211.72.65.236:8575/.m3u8
-#EXTINF:-1 group-title="列表",四川卫视
-https://mmslive.sctv-tf.com/scgc/sctv2023l/index.m3u8
+http://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 group-title="列表",中天亚洲
+http://sc2022.stream-link.org/tv2306.php?id=t16
 #EXTINF:-1 group-title="中国频道",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 group-title="中国频道",CCTV1
