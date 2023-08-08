@@ -4,21 +4,23 @@ https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?
 #EXTINF:-1 group-title="默认分组",凤凰中文2
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰中文3
-http://211.72.65.236:8577/.m3u8
+http://113.117.74.47:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯1
 https://youtu.be/if6yQq_JJyY
 #EXTINF:-1 group-title="默认分组",凤凰资讯2
 http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰香港1
+http://php.17186.eu.org/phtv/fhxg.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰香港2
+https://cntv.sbs/fs?id=fhhk&auth=2307280808
 #EXTINF:-1 group-title="默认分组",CCTV9
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="默认分组",TVBS新聞
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="默认分组",TVBS NEWS
-https://youtu.be/m_dhMSvUCIc
 #EXTINF:-1 group-title="默认分组",TVBS新聞
-https://youtu.be/2mCSYvcfhtc
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="默认分组",東森新聞
-https://youtu.be/S5WOGu2HSes
+http://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1 group-title="默认分组",中視新聞
 https://youtu.be/TCnaIE_SAtM
 #EXTINF:-1 group-title="默认分组",台視新聞 HD
@@ -35,8 +37,6 @@ https://youtu.be/eg3AtXVByOM
 https://youtu.be/B7Zp3d6xXWw
 #EXTINF:-1 group-title="默认分组",鏡新聞
 https://youtu.be/5n0y6b0Q25o
-#EXTINF:-1 group-title="默认分组",凤凰香港
-http://php.17186.eu.org/phtv/fhxg.m3u8
 #EXTINF:-1 group-title="默认分组",翡翠台
 http://27.36.62.162:9090/live/1350_1500.m3u8
 #EXTINF:-1 group-title="默认分组",广东公共
