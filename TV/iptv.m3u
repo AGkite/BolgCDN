@@ -23,10 +23,10 @@ http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="默认分组",東森新聞
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 group-title="默认分组",华视新闻
-http://sc2022.stream-link.org/tv2306.php?id=t04
-#EXTINF:-1 group-title="默认分组",中天新聞
-http://sc2022.stream-link.org/tv2306.php?id=t05
+#EXTINF:-1 group-title="默认分组",民視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="默认分组",民視新聞
+http://sc2022.stream-link.org/tv2306.php?id=t06
 #EXTINF:-1 group-title="默认分组",三立iNEWS
 http://sc2022.stream-link.org/tv2306.php?id=t10
 #EXTINF:-1 group-title="默认分组",三立新闻
@@ -35,18 +35,19 @@ http://sc2022.stream-link.org/tv2306.php?id=t11
 https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 #EXTINF:-1 group-title="默认分组",三立新闻+
 http://sc2022.stream-link.org/tv2306.php?id=t12
-#EXTINF:-1 group-title="默认分组",民視新聞 HD
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="默认分组",民視新聞
-http://sc2022.stream-link.org/tv2306.php?id=t06
+#EXTINF:-1 group-title="默认分组",华视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t04
+#EXTINF:-1 group-title="默认分组",中天新聞
+http://sc2022.stream-link.org/tv2306.php?id=t05
 #EXTINF:-1 group-title="默认分组",台視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",寰宇新闻
 http://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 group-title="默认分组",壹新闻台
+http://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?
 #EXTINF:-1 group-title="默认分组",鏡新聞
 https://youtu.be/5n0y6b0Q25o
-#EXTINF:-1 group-title="默认分组",壹新闻台
-http://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk&
+stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk&
 #EXTINF:-1 group-title="默认分组",三立台湾
 https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8
 #EXTINF:-1 group-title="默认分组",翡翠台1
