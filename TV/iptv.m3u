@@ -4,15 +4,17 @@ https://us.dispatch.ulivetv.net/v/live/cg4l8oajkyww.m3u8?
 #EXTINF:-1 group-title="默认分组",凤凰中文2
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰中文3
-http://113.117.74.47:8081/hls/37/index.m3u8
+http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯1
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="默认分组",凤凰资讯2
 http://php.17186.eu.org/phtv/fhzx.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰资讯3
+http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰香港1
 http://php.17186.eu.org/phtv/fhxg.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰香港2
-https://cntv.sbs/fs?id=fhhk&auth=2307280808
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 group-title="默认分组",CCTV9
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="默认分组",TVBS新聞
@@ -21,24 +23,32 @@ http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="默认分组",東森新聞
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 group-title="默认分组",中視新聞
+#EXTINF:-1 group-title="默认分组",华视新闻
+http://sc2022.stream-link.org/tv2306.php?id=t04
+#EXTINF:-1 group-title="默认分组",中天新聞
 http://sc2022.stream-link.org/tv2306.php?id=t05
-#EXTINF:-1 group-title="默认分组",台視新聞 HD
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="默认分组",台視新聞 HD
+#EXTINF:-1 group-title="默认分组",三立iNEWS
+http://sc2022.stream-link.org/tv2306.php?id=t10
+#EXTINF:-1 group-title="默认分组",三立新闻
+http://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1 group-title="默认分组",三立新闻+
+https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+#EXTINF:-1 group-title="默认分组",三立新闻+
 http://sc2022.stream-link.org/tv2306.php?id=t12
 #EXTINF:-1 group-title="默认分组",民視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",民視新聞
 http://sc2022.stream-link.org/tv2306.php?id=t06
-#EXTINF:-1 group-title="默认分组",三立新闻
-http://sc2022.stream-link.org/tv2306.php?id=t10
-#EXTINF:-1 group-title="默认分组",三立新闻+
-http://sc2022.stream-link.org/tv2306.php?id=t11
+#EXTINF:-1 group-title="默认分组",台視新聞 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",寰宇新闻
-http://sc2022.stream-link.org/tv2306.php?id=t07
+http://sc2022.stream-link.org/tv2306.php?id=t08
 #EXTINF:-1 group-title="默认分组",鏡新聞
 https://youtu.be/5n0y6b0Q25o
+#EXTINF:-1 group-title="默认分组",壹新闻台
+http://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk&
+#EXTINF:-1 group-title="默认分组",三立台湾
+https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8
 #EXTINF:-1 group-title="默认分组",翡翠台1
 http://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 group-title="默认分组",翡翠台2
@@ -57,6 +67,8 @@ http://sc2022.stream-link.org/tv2306.php?id=h03
 http://sc2022.stream-link.org/tv2306.php?id=c02
 #EXTINF:-1 group-title="默认分组",广东公共
 http://14.212.185.77:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",广东民生
+https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 #EXTINF:-1 group-title="默认分组",广东卫视
 http://14.212.185.77:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="默认分组",广东珠江
@@ -77,6 +89,8 @@ http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="默认分组",湖南卫视
 http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",咪咕体育
+http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 group-title="默认分组",RTHK32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="默认分组",无线财经資訊台
@@ -87,6 +101,10 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 #EXTINF:-1 group-title="默认分组",BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="默认分组",CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 group-title="默认分组",俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="列表",翡翠台
 http://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 group-title="列表",翡翠台
