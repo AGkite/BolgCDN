@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="默认分组",凤凰中文1
-http://180.143.112.210:8181/tsfile/live/1001_1.m3u8
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="默认分组",凤凰中文2
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯1
@@ -25,8 +25,10 @@ http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",TVBS新聞
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="默认分组",東森新聞
+#EXTINF:-1 group-title="默认分组",東森新聞1
 http://sc2022.stream-link.org/tv2306.php?id=t01
+#EXTINF:-1 group-title="默认分组",東森新聞2
+http://220.135.124.158:8088/live/51_h265.ts
 #EXTINF:-1 group-title="默认分组",民視新聞 HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",民視新聞
@@ -52,7 +54,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",寰宇新闻
 http://sc2022.stream-link.org/tv2306.php?id=t08
 #EXTINF:-1 group-title="默认分组",壹新闻台
-http://us.dispatch.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?
+http://220.135.124.158:8088/live/23_h265.ts
 #EXTINF:-1 group-title="默认分组",鏡新聞
 https://youtu.be/5n0y6b0Q25o
 stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk&
@@ -74,6 +76,8 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=1533
 http://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 group-title="默认分组",TVB 星河
 http://sc2022.stream-link.org/tv2306.php?id=c02
+#EXTINF:-1 group-title="默认分组",星空卫视
+http://113.117.74.24:8081/hls/87/index.m3u8
 #EXTINF:-1 group-title="默认分组",澳门Macau
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 group-title="默认分组",澳视澳门
