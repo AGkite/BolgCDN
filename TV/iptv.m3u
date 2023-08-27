@@ -9,10 +9,12 @@ http://r.jdshipin.com/0Rp07
 http://180.143.112.210:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯3
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-#EXTINF:-1 group-title="默认分组",凤凰香港1
-http://180.143.112.210:8181/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="默认分组",凤凰香港2
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+#EXTINF:-1 group-title="默认分组",无线新闻1
+http://107.167.12.58:27347/livehttpplay?channel_id=30024
+#EXTINF:-1 group-title="默认分组",无线新闻2
+http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 group-title="默认分组",有线新闻
+http://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 group-title="默认分组",CCTV9
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="默认分组",CCTV10
@@ -60,16 +62,14 @@ https://youtu.be/5n0y6b0Q25o
 stream_id=cfxwzsgnhnls&token=c0vzuc7wqkzk&
 #EXTINF:-1 group-title="默认分组",三立台湾
 https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰香港1
+http://180.143.112.210:8181/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰香港2
+http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 group-title="默认分组",翡翠台1
 http://sc2022.stream-link.org/tv2306.php?id=h01
 #EXTINF:-1 group-title="默认分组",翡翠台2
 http://107.167.12.58:27347/livehttpplay?channel_id=20127
-#EXTINF:-1 group-title="默认分组",有线新闻
-http://sc2022.stream-link.org/tv2306.php?id=h08
-#EXTINF:-1 group-title="默认分组",无线新闻1
-http://sc2022.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 group-title="默认分组",无线新闻2
-http://107.167.12.58:27347/livehttpplay?channel_id=30024
 #EXTINF:-1 group-title="默认分组",TVB J1
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
 #EXTINF:-1 group-title="默认分组",TVB J2
