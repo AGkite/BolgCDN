@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="默认分组",凤凰中文1
-http://r.jdshipin.com/cCCzW
+http://113.117.74.27:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰中文2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+#EXTINF:-1 group-title="默认分组",凤凰中文3
+http://113.117.74.29:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯1
 http://113.117.74.19:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯2
