@@ -1,20 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="默认分组",凤凰中文1
-http://113.117.74.27:8081/hls/37/index.m3u8
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-96623005-48a9-4354-9e0d-79ab99e6e600.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰中文2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰中文3
 http://113.117.74.29:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯1
-http://113.117.74.19:8081/hls/36/index.m3u8
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-64a9aa00-9082-439c-bb8f-cbb58d29c297.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯2
 http://113.64.147.3:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资讯3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 group-title="默认分组",无线新闻1
-https://hkdtmb.com/dtmb/83/index.m3u8?token=B3h-8Axb2972cHOAfQvRtg&expires=1736904376
+https://pull-l3-activity.ixigua.com/live/YesLiveTV-322ff2ac-93cf-4f64-b9db-20be362c2260.m3u8
 #EXTINF:-1 group-title="默认分组",无线新闻2
 http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 group-title="默认分组",无线新闻3
+https://hkdtmb.com/dtmb/83/index.m3u8?token=B3h-8Axb2972cHOAfQvRtg&expires=1736904376
 #EXTINF:-1 group-title="默认分组",有线新闻
 http://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 group-title="默认分组",CCTV9
