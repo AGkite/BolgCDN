@@ -1,14 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="默认分组",凤凰中文1
-http://113.117.74.27:8081/hls/37/index.m3u8
+https://live3.rxip.sc96655.com/live/test1_4000.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰中文2
-http://113.117.74.22:8081/hls/37/index.m3u8
+https://live3.rxip.sc96655.com/live/test2_4000.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资询1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资询2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 group-title="默认分组",无线新闻1
 http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 group-title="默认分组",广东民生
+http://120.234.220.107:7000/udp/239.21.0.86:3684
+#EXTINF:-1 group-title="默认分组",广东影视
+http://120.234.220.107:7000/udp/239.21.0.85:3680
+#EXTINF:-1 group-title="默认分组",CCTV9
+https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
 #EXTINF:-1 group-title="默认分组",CCTV9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="默认分组",中天新闻1
@@ -29,6 +35,28 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 group-title="默认分组",TVBS新聞2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1 group-title="默认分组",湖南卫视
+https://live3.rxip.sc96655.com/live/hnwsH265_4000.m3u8
+#EXTINF:-1 group-title="默认分组",江苏卫视
+https://live3.rxip.sc96655.com/live/jswsH265_4000.m3u8
+#EXTINF:-1 group-title="默认分组",浙江卫视
+https://live3.rxip.sc96655.com/live/zjwsH265_4000.m3u8
+#EXTINF:-1 group-title="默认分组",湖北卫视
+https://live3.rxip.sc96655.com/live/hbwsH265_4000.m3u8
+#EXTINF:-1 group-title="默认分组",安徽卫视
+https://live3.rxip.sc96655.com/live/ahwsH265_4000.m3u8
+#EXTINF:-1 group-title="默认分组",广东卫视
+https://live3.rxip.sc96655.com/live/gdwsH265_4000.m3u8
+#EXTINF:-1 group-title="默认分组",辽宁卫视
+https://live3.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8
+#EXTINF:-1 group-title="默认分组",深圳卫视
+https://live3.rxip.sc96655.com/live/szwsH265_4000.m3u8
+#EXTINF:-1 group-title="默认分组",金鹰卡通
+https://live3.rxip.sc96655.com/live/jykt_2000.m3u8
+#EXTINF:-1 group-title="默认分组",嘉佳卡通
+https://live3.rxip.sc96655.com/live/jjkt_2000.m3u8
+#EXTINF:-1 group-title="默认分组",天元围棋
+https://live3.rxip.sc96655.com/live/tywq_2000.m3u8
 #EXTINF:-1 group-title="默认分组",台視新聞2
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="默认分组",中天新闻2
