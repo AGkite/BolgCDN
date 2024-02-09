@@ -1,30 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="默认分组",凤凰中文1
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
-#EXTINF:-1 group-title="默认分组",凤凰中文2
+#EXTINF:-1 group-title="默认分组",凤凰中文
 http://118.116.81.112:8000/udp/239.93.0.162:2192
 #EXTINF:-1 group-title="默认分组",凤凰资询1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="默认分组",凤凰资询2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 group-title="默认分组",无线新闻1
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=6
-#EXTINF:-1 group-title="默认分组",HOY 资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
-#EXTINF:-1 group-title="默认分组",财经体育资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=7
-#EXTINF:-1 group-title="默认分组",翡翠台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
-#EXTINF:-1 group-title="默认分组",TVB J2
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
 #EXTINF:-1 group-title="默认分组",CCTV9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="默认分组",东森新闻
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=22
+#EXTINF:-1 group-title="默认分组",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="默认分组",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="默认分组",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="默认分组",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="默认分组",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="默认分组",广东影视
+http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/广州电视台.php?id=yingshi
 #EXTINF:-1 group-title="默认分组",中天新闻1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="默认分组",东森财经新闻
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=23
 #EXTINF:-1 group-title="默认分组",台視新聞1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 group-title="默认分组",民視新聞 HD
@@ -41,20 +37,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 group-title="默认分组",TVBS新聞2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 group-title="默认分组",广东民生
-http://120.234.220.107:7000/udp/239.21.0.86:3684
-#EXTINF:-1 group-title="默认分组",广东影视
-http://xuxingwen.hk3.345888.xyz.cdn.cloudflare.net/广州电视台.php?id=yingshi
-#EXTINF:-1 group-title="默认分组",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="默认分组",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 group-title="默认分组",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="默认分组",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="默认分组",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="默认分组",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="默认分组",深圳卫视
