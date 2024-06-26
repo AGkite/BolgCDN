@@ -101,13 +101,27 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 #EXTINF:-1 group-title="默认分组",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="默认分组",BBCNEWS
+#EXTINF:-1 group-title="默认分组",BBCNEWS1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="默认分组",BBCNEWS2
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="默认分组",DW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 group-title="默认分组",ANN日本NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="默认分组",ABCNEWS
+#EXTINF:-1 group-title="默认分组",ABCNEWS1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 group-title="默认分组",ABCNEWS2
+http://extraott.com:80/live/7921751389/6097373662/176158.m3u8
+#EXTINF:-1 group-title="默认分组",CNN
+https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
+#EXTINF:-1 group-title="默认分组",Yahoo Finance
+https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
+#EXTINF:-1 group-title="默认分组",WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+#EXTINF:-1 group-title="默认分组",World War TV
+https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
+#EXTINF:-1 group-title="默认分组",BFM TV
+https://i.mjh.nz/SamsungTVPlus/FRBD410000783.m3u8
 #EXTINF:-1 group-title="默认分组",以色列-加沙直播
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
