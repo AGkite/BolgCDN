@@ -1,8 +1,16 @@
 {
     "urls": [
         {
+            "url": "https://raw.githubusercontent.com/loopool/fan/main/a.json",
+            "name": "自用"
+        },
+        {
             "url": "http://www.饭太硬.com/tv/",
             "name": "💖饭太硬"
+        },
+        {
+            "url": "http://肥猫.live",
+            "name": "肥猫"
         },
         {
             "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -11,6 +19,10 @@
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "💖王二小"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+            "name": "💖高天流云"
         },
         {
             "url": "https://100km.top/0/",
