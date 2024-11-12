@@ -2,11 +2,23 @@
     "urls": [
         {
             "url": "http://www.饭太硬.com/tv/",
-            "name": "💖饭太硬〔多条线路〕"
+            "name": "💖饭太硬"
         },
         {
-            "url": "http://我不是.肥猫.live/接口禁止贩卖/",
-            "name": "💖肥猫直播〔多条线路〕"
+            "url": "https://100km.top/0/",
+            "name": "💖纯一直播"
+        },
+        {
+            "url": "https://7213.kstore.vip/吃猫的鱼",
+            "name": "💖吃猫的鱼"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "💖王二小"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "💖南风"
         }
     ]
 }
