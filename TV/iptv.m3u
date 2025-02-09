@@ -11,14 +11,14 @@ https://cdn5.1678520.xyz/live/live1.1.php？id=fhzx#http://xeace.cn:8888/udp/239
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 group-title="默认分组",无线新闻2
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="默认分组",无线新闻3
-http://14.155.141.153:9001/bysid/83
-#EXTINF:-1 group-title="默认分组",HOY 78
-http://feng163.com:9003/bysid/78
+#EXTINF:-1 group-title="默认分组",TVBJ1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="默认分组",TVBJ1
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 #EXTINF:-1 group-title="默认分组",翡翠台1
-http://feng163.com:9000/bysid/1
-#EXTINF:-1 group-title="默认分组",翡翠台2
-http://14.155.141.153:9000/bysid/96
+http://222.128.55.152:9080/live/gdfc.m3u8
+#EXTINF:-1 group-title="默认分组",HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="默认分组",香港环球卫视
 rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
 #EXTINF:-1 group-title="默认分组",TVB
@@ -57,6 +57,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="默认分组",广东新闻
 http://183.236.32.24:9901/hls/1037/index.m3u8
+#EXTINF:-1 group-title="默认分组",广东民生
+http://222.128.55.152:9080/live/gdms.m3u8
 #EXTINF:-1 group-title="默认分组",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 group-title="默认分组",四川卫视
