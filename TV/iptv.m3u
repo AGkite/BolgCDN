@@ -2,29 +2,33 @@
 #EXTINF:-1 group-title="默认分组",凤凰中文1
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="默认分组",凤凰中文2
-http://xeace.cn:8888/udp/239.93.1.9:2192
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 group-title="默认分组",凤凰资询1
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 group-title="默认分组",凤凰资询2
-https://cdn5.1678520.xyz/live/live1.1.php？id=fhzx#http://xeace.cn:8888/udp/239.93.0.118:2191
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="默认分组",无线新闻1
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 group-title="默认分组",无线新闻2
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="默认分组",台视新闻
+http://222.128.55.152:9080/live/ts.m3u8
+#EXTINF:-1 group-title="默认分组",TVBS
+http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="默认分组",TVBJ1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="默认分组",TVBJ1
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
 #EXTINF:-1 group-title="默认分组",翡翠台1
-http://222.128.55.152:9080/live/gdfc.m3u8
-#EXTINF:-1 group-title="默认分组",HKS
+http://111.221.218.59:8001/bysid/1
+#EXTINF:-1 group-title="默认分组",翡翠台2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="默认分组",HKS1
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="默认分组",HKS2
+rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 #EXTINF:-1 group-title="默认分组",香港环球卫视
 rtmp://play.xghqws.cn/yunqing888/yunqing888?auth_key=1731294000-0-0-0942b140da60167a47c1f2d685f702b2
-#EXTINF:-1 group-title="默认分组",TVB
-http://14.155.141.153:9001/bysid/82
-#EXTINF:-1 group-title="默认分组",T1
-http://14.155.141.153:9000/bysid/99
 #EXTINF:-1 group-title="默认分组",TVB娱乐新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="默认分组",华丽翡翠台
@@ -34,8 +38,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 #EXTINF:-1 group-title="默认分组",明珠台
 http://14.155.141.153:9001/bysid/2
 #EXTINF:-1 group-title="默认分组",凤凰香港
-http://14.155.141.153:9001/bysid/85
-#EXTINF:-1 group-title="默认分组",CCTV9
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 group-title="默认分组",CCTV9s
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="默认分组",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
