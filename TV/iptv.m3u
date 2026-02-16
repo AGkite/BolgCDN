@@ -1,4 +1,44 @@
 #EXTM3U
+#EXTINF:-1 group-title="默认分组",CCTV1
+http://183.250.156.180:9999/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="默认分组",CCTV1
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-1 group-title="默认分组",CCTV13
+http://183.250.156.180:9999/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="默认分组",CCTV-1
+http://59.175.8.220:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV-2
+http://59.175.8.220:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV-3
+http://59.175.8.220:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV-4
+http://59.175.8.220:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV-5
+http://59.175.8.220:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV-6
+http://59.175.8.220:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV-7
+http://59.175.8.220:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV-8
+http://59.175.8.220:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="默认分组",CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="默认分组",CCTV13
+http://1.31.14.70:54321/hls/19/index.m3u8
+#EXTINF:-1 group-title="默认分组",CCTV13
+http://183.222.242.31:8088/hls/13/index.m3u8
+#EXTINF:-1 group-title="默认分组",CCTV10
+http://183.191.144.58:8002/rtp/226.0.2.162:9208
+#EXTINF:-1 group-title="默认分组",凤凰资讯
+http://rihou.cc:555/tv/[SX]凤凰资讯
+#EXTINF:-1 group-title="默认分组",凤凰资讯
+http://rihou.cc:555/tv/[PL]凤凰资讯
+#EXTINF:-1 group-title="默认分组",凤凰资讯
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="默认分组",CCTV1
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-1 group-title="默认分组",CCTV1
+
 #EXTINF:-1 group-title="默认分组",凤凰中文1
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="默认分组",凤凰中文2
